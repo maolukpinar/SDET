@@ -1,0 +1,8 @@
+1- https://www.saucedemo.com/ sitesini açınız.
+2- Login işlemini yapınız
+3- Burada gözüken ürünlerin isimlerini yazdırınız.
+
+
+
+Xpath ile aratsak  -->  //div[@class="inventory_item_name"]
+CssSelector ile    -->  .inventory_item_name
